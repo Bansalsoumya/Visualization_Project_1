@@ -12,11 +12,11 @@ Created the following dashboards:-
 # Dashboard 1: Inventory Performance Dashboard 
 This dashboard includes-
 
-a) category analysis based on vendor item price from highest to lowest in each year
+a) Category Analysis based on Vendor Item Price from highest to lowest in each year
 
-b) subcategory analysis based on End on Hand units
+b) Subcategory Analysis based on End on Hand units
 
-c) monthly End on Hand and On Order units for each year.
+c) Monthly End on Hand and On Order units for each year.
 
 # Dashboard 2: Retailer Analysis Dashboard
 This dashboard contains-
